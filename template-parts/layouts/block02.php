@@ -1,4 +1,4 @@
-<div class="uk-section block02">
+<div class="uk-section block02 uk-background-top-center uk-background-cover uk-background-norepeat" data-src="images/bg_thutucdky.png" uk-img>
     <div class="uk-container mb-30 mb-50-s mb-101-m">
         <h2 class="block01__title mb-25 mb-36-m uk-h2 uk-text-center uk-text-uppercase">THỦ TỤC ĐĂNG KÝ XÉT TUYỂN</h2>
         <div class="uk-child-width-1-2 uk-child-width-1-4@m uk-grid-10 uk-grid-14-m uk-grid-match" uk-grid uk-scrollspy="cls: uk-animation-slide-bottom-small; target: .uk-card; delay: 300; repeat: false">
@@ -47,7 +47,7 @@
         </div>
     </div>
     <div class="uk-container uk-container-large">
-        <h2 class="block01__title mb-25 mb-40-m uk-h2 uk-text-center uk-text-uppercase">Các hoạt động sinh viên Quản Trị Kinh Doanh</h2>
+        <h2 class="block01__title mb-25 mb-40-m uk-h2 uk-text-center uk-text-uppercase">Các hoạt động sinh viên CÔNG NGHỆ THÔNG TIN</h2>
         <div class="uk-child-width-1-2 uk-child-width-1-3@s uk-flex-center uk-grid-collapse" uk-grid="masonry: false;parallax: 0;" uk-scrollspy="cls: uk-animation-scale-up; target: .animation; delay: 150; repeat: false">
             <div>
                 <div class="uk-text-center animation">

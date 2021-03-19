@@ -202,8 +202,9 @@
         </div>
     </div>
     <div class="uk-container">
-        <h2 class="block01__title mb-25 mb-66-m uk-h2 uk-text-center uk-text-uppercase">TẠI SAO HỌC QUẢN TRỊ KINH DOANH
-            <br> NÊN CHỌN ĐẠI HỌC FPT?</h2>
+        <h2 class="block01__title mb-25 mb-66-m uk-h2 uk-text-center uk-text-uppercase">TẠI SAO HỌC CÔNG NGHỆ THÔNG TIN
+            <br>
+            NÊN CHỌN ĐẠI HỌC FPT?</h2>
         <div class="uk-child-width-1-3@m mb-50 mb-147-m uk-grid-small uk-grid-34-m uk-grid-match" uk-grid="parallax: 150">
             <div>
                 <div class="block04__card2 uk-card uk-card-body uk-background-02 uk-text-center uk-box-shadow-small">
@@ -248,22 +249,24 @@
                 </div>
             </div>
         </div>
-        <h2 class="block01__title mb-25 mb-59-m uk-h2 uk-text-center uk-text-uppercase">CÁC CHUYÊN NGÀNH QUẢN TRỊ KINH DOANH</h2>
+        <h2 class="block01__title mb-25 mb-59-m uk-h2 uk-text-center uk-text-uppercase">CÁC CHUYÊN NGÀNH CÔNG NGHỆ THÔNG TIN</h2>
         <div class="mb-60 mb-184-m" uk-grid>
             <div class="uk-width-expand">
                 <iframe src="https://www.youtube-nocookie.com/embed/c2pz2mlSfXA?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
             </div>
             <div class="uk-width-2-5@m">
                 <ul class="uk-list block04__list">
-                    <li>• Digital Marketing</li>
-                    <li>• Kinh doanh quốc tế</li>
-                    <li>• Quản trị khách sạn</li>
-                    <li>• Quản trị dịch vụ du lịch & lữ hành</li>
-                    <li>• Quản trị truyền thông đa phương tiện</li>
+                    <li>• Kỹ thuật phần mềm</li>
+                    <li>• Hệ thống thông tin</li>
+                    <li>• Trí tuệ nhân tạo</li>
+                    <li>• An toàn thông tin</li>
+                    <li>• IoT</li>
+                    <li>• Hệ thống ô tô và điều khiển (dự kiến)</li>
+                    <li>• Thiết kế Mỹ thuật số</li>
                 </ul>
             </div>
         </div>
-        <h2 class="block01__title mb-25 mb-59-m uk-h2 uk-text-center uk-text-uppercase">HỌC QUẢN TRỊ KINH DOANH Ở ĐẠI HỌC FPT
+        <h2 class="block01__title mb-25 mb-59-m uk-h2 uk-text-center uk-text-uppercase">HỌC CÔNG NGHỆ THÔNG TIN Ở ĐẠI HỌC FPT
             <br> LÀ HỌC GÌ?</h2>
         <div class="uk-child-width-1-3@m uk-grid-match" uk-grid>
             <div>
