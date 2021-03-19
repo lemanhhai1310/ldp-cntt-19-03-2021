@@ -1,0 +1,63 @@
+.block01{
+  &__boxCountdown{
+    .uk-countdown-number{
+      @extend .fz-57;
+      color: rgba(#fff,1) !important;
+    }
+    .uk-countdown-label{
+      @extend .fz-16;
+      color: rgba(#fff,1) !important;
+    }
+    .uk-countdown-separator{
+      @extend .fz-25;
+    }
+  }
+  .uk-radio{
+    background-color: #fff;
+  }
+  &__btnSubmit{
+    font-family: $font-Verdana-Regular;
+    @extend .fz-18;
+    background: $color2 !important;
+    color: rgba(#fff,1) !important;
+    .block04 &{
+      margin-bottom: -60px;
+      @include media-breakpoint-up('m'){
+        margin-bottom: -94px;
+      }
+    }
+  }
+  &__title{
+    font-family: $font-Verdana-Bold;
+    @extend .fz-30;
+    line-height: (36/30);
+    .uk-light &{
+      color: rgba(#fff,1) !important;
+    }
+    span{
+      font-family: $font-Verdana-Regular;
+    }
+  }
+  &__input{
+    background-color: #fff !important;
+    color: #575756 !important;
+    @extend .fz-16;
+    font-family: $font-Roboto-LightItalic;
+    &::placeholder{
+      color: #575756 !important;
+    }
+  }
+  &__lablel{
+    @extend .fz-16;
+    line-height: (17/16);
+    font-family: $font-Roboto-Bold;
+    color: rgba(#fff,1) !important;
+    min-width: 136px;
+  }
+  &__txtRadio{
+    @extend .fz-16;
+    font-family: $font-Roboto-Medium;
+    line-height: (18/16);
+    color: rgba(#fff,0.9) !important;
+  }
+}

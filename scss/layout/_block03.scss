@@ -1,0 +1,19 @@
+.block03{
+  &__card1{
+    margin-top: -50px;
+    padding-top: 55px;
+    @include media-breakpoint-up('m'){
+      padding-top: 60px;
+    }
+    &__desc{
+      @extend .fz-16;
+      color: #1d1d1b;
+      font-family: $font-Roboto-LightItalic;
+    }
+    &__title{
+      font-family: $font-Roboto-Medium;
+      @extend .fz-16;
+      color: #000;
+    }
+  }
+}

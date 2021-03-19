@@ -1,0 +1,19 @@
+.block05{
+  height: 100vh;
+  &__mode{
+    opacity: 0.61;
+    mix-blend-mode: soft-light;
+  }
+  &__title{
+    @extend .fz-46;
+    font-family: $font-Verdana-Bold;
+    color: #ffffff;
+    line-height: (55/46);
+  }
+  &__title1{
+    @extend .fz-22;
+    color: #ffffff;
+    line-height: (26/22);
+    font-family: $font-Roboto-Black;
+  }
+}
