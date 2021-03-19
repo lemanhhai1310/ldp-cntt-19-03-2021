@@ -3,7 +3,55 @@
   <component name="ChangeListManager">
     <list default="true" id="f41fe3af-ef6d-4ce4-8c36-c311edc998f1" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/_Group_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/fb-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/fb-share.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/game.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/gift1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/gift2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/gift3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/gift4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/gift5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/gift6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/title1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/title2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/aptech_game_mx2019.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/32575ae941482bf7e05e4eee8e4b6ad4d5730dc3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/4bf37b363a51abe65dc49adf1a66cc414c1fa0f0.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/596e0d2747ca5835739be69fe4d18e02ba79bbf0.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/aaf29b4e32d3590c0884d47e32b40eba71591489.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/mtekscis.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/uxyywcsf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/cache/wkl6e2gf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/game_cache/mx2019/52f635a56ca1c6971a2a29cb0c1ae21eb78f88e0.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/game_cache/mx2019/ec861670fd34e6a95f75d25743150a8caec6b561.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/game_cache/mx2019/ec861670fd34e6a95f75d25743150a8caec6b561.cache.old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/game_cache/mx2019/wvugbzhh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/game_cache/ryoabsuj.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/game_cache/worecuex.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/language/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/language/phpmailer.lang-joomla.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/mailconfig.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/phpmailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/pop3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/phpmailer/smtp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/queue_email.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/send_queued_emails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/_Path_.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/_index.html" afterDir="false" />
@@ -99,7 +147,6 @@
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/template-parts/layouts/block04.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/block04.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit-rtl.css" beforeDir="false" />
@@ -157,7 +204,8 @@
       <option name="presentableId" value="Default" />
       <updated>1616122570419</updated>
       <workItem from="1616122571590" duration="530000" />
-      <workItem from="1616123397844" duration="3535000" />
+      <workItem from="1616123397844" duration="4483000" />
+      <workItem from="1616140277699" duration="306000" />
     </task>
     <servers />
   </component>

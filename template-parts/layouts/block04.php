@@ -122,14 +122,16 @@
                     </div>
                 </div>
             </div>
-            <div class="uk-position-top-center uk-visible@m">
-                <h4 class="uk-h4 uk-text-center block04__title1">
-                    <span>ĐẠI HỌC FPT</span> <br> NHIỀU NĂM LIÊN TIẾP ĐẠT
+            <div class="uk-position-top-center uk-text-center uk-visible@m">
+                <div class="mb-5">
+                    <img src="images/_Path_.png" alt="">
+                </div>
+                <h4 class="uk-h4 uk-text-center block04__title1 uk-margin-remove-top mb-5">
+                    <span>9 NĂM LIÊN TIẾP</span> <br> ĐẠT GIẢI SAO KHUÊ
                 </h4>
-                <img src="images/top2.png" alt="">
                 <h4 class="uk-h4 uk-text-center block04__title2 uk-margin-remove">
                     TRƯỜNG ĐÀO TẠO <br>
-                    QUẢN TRỊ KINH DOANH <br> TỐT NHẤT VIỆT NAM
+                    CÔNG NGHỆ THÔNG TIN <br> XUẤT SẮC TẠI VIỆT NAM
                 </h4>
             </div>
         </div>
