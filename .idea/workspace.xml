@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f41fe3af-ef6d-4ce4-8c36-c311edc998f1" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/in1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/in2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/in3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/_Group_1.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/_index.html" afterDir="false" />
@@ -21,9 +19,8 @@
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/css/app.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/fonts/Arial/arial.ttf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/_Group_1.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/dark.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/in1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/in2.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/lemanhhai_anhthe.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/light.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/images/noimage.jpg" afterDir="false" />
@@ -160,7 +157,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616122570419</updated>
       <workItem from="1616122571590" duration="530000" />
-      <workItem from="1616123397844" duration="2103000" />
+      <workItem from="1616123397844" duration="3535000" />
     </task>
     <servers />
   </component>
