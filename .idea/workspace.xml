@@ -51,7 +51,6 @@
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/queue_email.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/send_queued_emails.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/wheel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/_Path_.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/_index.html" afterDir="false" />
@@ -146,8 +145,6 @@
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template-parts/layouts/block04.php" beforeDir="false" afterPath="$PROJECT_DIR$/template-parts/layouts/block04.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit-rtl.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit-rtl.min.css" beforeDir="false" />
@@ -205,7 +202,7 @@
       <updated>1616122570419</updated>
       <workItem from="1616122571590" duration="530000" />
       <workItem from="1616123397844" duration="4483000" />
-      <workItem from="1616140277699" duration="306000" />
+      <workItem from="1616140277699" duration="552000" />
     </task>
     <servers />
   </component>
