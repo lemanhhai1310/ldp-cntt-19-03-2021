@@ -1,6 +1,11 @@
 .block05{
   //height: 100vh;
-  padding-bottom: 110px;
+  padding-bottom: 170px;
+  @include media-breakpoint-down('xs'){
+    min-height: max-content !important;
+    //height: max-content !important;
+
+  }
   &__mode{
     opacity: 0.61;
     mix-blend-mode: soft-light;

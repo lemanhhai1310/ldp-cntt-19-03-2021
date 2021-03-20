@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f41fe3af-ef6d-4ce4-8c36-c311edc998f1" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../02/ttdt-thanhhoa/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aptech/.idea/aptech.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/README.md" afterDir="false" />
@@ -51,6 +52,18 @@
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/queue_email.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/tm/send_queued_emails.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aptech/minigame/minigame_assets/wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/SVN-Gotham-Black.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/SVN-Kimberley.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Verdana-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaocoffee/fonts/Fonts/Verdana.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ldp-qtkd/.idea/ldp-qtkd.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ldp-qtkd/_index.html" afterDir="false" />
@@ -147,6 +160,7 @@
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../hopgiaygiare/template-parts/layouts/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/layout/_block05.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout/_block05.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../base/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit-rtl.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../base/assets/uikit-3.6.17/css/uikit-rtl.min.css" beforeDir="false" />
@@ -182,7 +196,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -193,6 +207,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -206,7 +225,11 @@
       <workItem from="1616123397844" duration="4483000" />
       <workItem from="1616140277699" duration="552000" />
       <workItem from="1616144333161" duration="366000" />
-      <workItem from="1616145934813" duration="1056000" />
+      <workItem from="1616145934813" duration="1519000" />
+      <workItem from="1616205806242" duration="39000" />
+      <workItem from="1616210396236" duration="5000" />
+      <workItem from="1616210408375" duration="141000" />
+      <workItem from="1616218436363" duration="290000" />
     </task>
     <servers />
   </component>
