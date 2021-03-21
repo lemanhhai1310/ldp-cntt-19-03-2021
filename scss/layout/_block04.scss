@@ -103,6 +103,11 @@
   &__card2{
     color: #ffffff;
     border-radius: 5px;
+    max-width: 300px;
+    width: 100%;
+    @include media-breakpoint-up('m'){
+      max-width: inherit;
+    }
     &__bg{
       border: 1px solid #ffffff;
     }

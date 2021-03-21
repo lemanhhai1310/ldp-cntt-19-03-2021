@@ -1,7 +1,7 @@
 <div class="uk-section uk-background-02 uk-light">
     <div class="uk-container">
         <h2 class="block01__title mb-25 mb-51-m uk-h2 uk-text-center uk-text-uppercase">SINH VIÊN, PHỤ HUYNH, NHÀ TUYỂN DỤNG NÓI GÌ?</h2>
-        <div uk-slider>
+        <div uk-slider="autoplay: true;center: false;">
 
             <div class="uk-position-relative">
 
